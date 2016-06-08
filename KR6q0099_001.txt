@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:16.244976
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:04
 #+TITLE: 禪林寶訓
 #+PROPERTY: CBETA_ID T48n2022
 #+PROPERTY: ID KR6q0099
@@ -14,7 +14,7 @@
 ¶
 No.2022¶
 
-禪林寶訓序
+* 禪林寶訓序
 :PROPERTIES:
 :head: 禪林寶訓序
 :END:
